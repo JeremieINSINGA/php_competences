@@ -8,7 +8,7 @@
         /*Defining a Function */
 
         function writeMessage(){
-            echo "You are really a nice person, Have a nice time! <br/>";
+            echo "Vous êtes vraiment quelqu'un de bien, passez un bon moment! <br/>";
         }
 
         /* Calling a Function */
@@ -23,7 +23,7 @@
         function addFunction($num1, $num2){
             $sum = $num1 + $num2;
             $num2 = $num2 + 1;
-            echo "The sum of $num1 and $num2 is: $sum <br/>";
+            echo "La somme de $num1 et $num2 est: $sum <br/>";
         }
 
         /*Pass by Reference - use ampersand in parameter */

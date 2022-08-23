@@ -1,5 +1,5 @@
 <?php 
-     $title = "For Loops";
+     $title = "Pour les boucles";
     include 'includes/header.php' ?>
     <h1>For Loops</h1>
 
@@ -10,7 +10,7 @@
         }
         
         for($count = 0; $count < 10; $count++){
-            echo "<p>The Count is: $count</p>";
+            echo "<p>c: $count</p>";
         }
     ?>
  <?php require 'includes/footer.php' ?>

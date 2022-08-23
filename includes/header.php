@@ -12,14 +12,14 @@
     <div class="container">
     <h2>Follow each link to the page example</h2>
     <ul class="nav nav-pills">
-        <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="index.php">Accueil</a></li>
         <li class="nav-item"><a class="nav-link" href="array.php">Simple Array and Printouts</a></li>
-        <li class="nav-item"><a class="nav-link" href="forloop.php">Simple For Loop</a></li>
-        <li class="nav-item"><a class="nav-link" href="whiledowhileloop.php">Simple  While/Do While Loop</a></li>
-        <li class="nav-item"><a class="nav-link" href="ifstatement.php">Simple If Statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="switchstatement.php">Simple Switch Statement</a></li>
-        <li class="nav-item"><a class="nav-link" href="stringmanip.php">Simple String Manipulation</a></li>
-        <li class="nav-item"><a class="nav-link" href="datetimemanip.php">Simple Date and Time Manipulation</a></li>
-        <li class="nav-item"><a class="nav-link" href="functions.php">Simple Functions</a></li>
+        <li class="nav-item"><a class="nav-link" href="forloop.php">Boucle For simple</a></li>
+        <li class="nav-item"><a class="nav-link" href="whiledowhileloop.php">Boucles While/Do While simple</a></li>
+        <li class="nav-item"><a class="nav-link" href="ifstatement.php">Instruction simple si</a></li>
+        <li class="nav-item"><a class="nav-link" href="switchstatement.php">Instruction de commutation simple</a></li>
+        <li class="nav-item"><a class="nav-link" href="stringmanip.php">Manipulation de chaîne simple</a></li>
+        <li class="nav-item"><a class="nav-link" href="datetimemanip.php">Manipulation simple de la date et de l'heure</a></li>
+        <li class="nav-item"><a class="nav-link" href="functions.php">Fonctions simples</a></li>
     </ul>   
     

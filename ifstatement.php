@@ -11,21 +11,21 @@
         $grade = 80;
         // ===, ==, >, < , <=, >=, 
         if($grade >= 50){
-            echo '<h3 style="color: green">YOU HAVE PASSED</h3>';
+            echo '<h3 style="color: green">VOUS AVEZ PASSÉ</h3>';
         }
         else{
-            echo '<h3 style="color: red">YOU HAVE FAILED</h3>';
+            echo '<h3 style="color: red">VOUS AVEZ ÉCHOUÉ</h3>';
         }
         $grade = 'C';
         // If-Else IF-Else
         if($grade == 'A'){
-            echo '<h2 style="color: green">YOU ARE A SUPERSTAR!</h2>';
+            echo '<h2 style="color: green">VOUS ÊTES UNE SUPERSTAR!</h2>';
         }
         elseif ($grade == 'B'){
-            echo '<h2 style="color: blue">YOU DID WELL!</h2>';
+            echo '<h2 style="color: blue">VOUS AVEZ BIEN FAIT !</h2>';
         }
         else{
-            echo '<h2 style="color: red">YOU HAVE FAILED....</h2>';
+            echo '<h2 style="color: red">VOUS AVEZ ÉCHOUÉ....</h2>';
         }
 
 

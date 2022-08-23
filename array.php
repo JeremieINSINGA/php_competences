@@ -1,6 +1,6 @@
 
 <?php 
-    $title = "Arrays and Printouts";
+    $title = "Tableaux et impressions";
     include 'includes/header.php' 
 ?>
     <h1><?php echo $title ?></h1>
@@ -17,7 +17,7 @@
         echo "<p>$numbers[9]</p>";
         
         $size = count($numbers);
-        echo "<p>Array Numbers is size: $size</p>";
+        echo "<p>Le nombre de tableaux est de taille: $size</p>";
 
         for($count = 0; $count < $size; $count++){
             echo "<p>$numbers[$count]</p>";
