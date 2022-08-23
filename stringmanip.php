@@ -5,17 +5,17 @@
     <h1>PHP String Manipulation</h1>
     <?php 
     //Concatenation of strings
-        $phrase1 = "student who came late";
+        $phrase1 = "Je suis un étudiant";
         $phrase2 = "in class, stand with Rock";
         $name = "Jérémie Insinga";
-        echo $phrase1 . ", named Tiffany, ". $phrase2;
+        echo $phrase1 . ", Elle s'appelle Tiffany, ". $phrase2;
         echo '<br/>';
         echo '<hr/>';
         //String tansformation
         echo 'Uppercase first letter: ' . ucfirst($name).'<br/>';
         echo 'Uppercase first letter of each word: ' . ucwords($name).'<br/>';
         echo 'Upper case: '. strtoupper($name).'<br/>';
-        echo 'Lower case: '. strtolower("THIS WAS ALL UPPER CASE").'<br/>';
+        echo 'Lower case: '. strtolower("C'ÉTAIT TOUT EN MAJUSCULES").'<br/>';
         echo '<hr/>';
         echo 'Repeat String: ' . str_repeat('a',10) . '<br/>';
         echo 'Repeat String - Nested Function: ' . strtoupper(str_repeat('a',10)) . '<br/>';
