@@ -19,10 +19,9 @@
         $age = 26;
         // echo variable
         echo $name;
-        echo '<h1>My Name Is: '.$name.' </h1>';
-        echo '<h1>My Age Is: '.$age.' </h1>';
-        // Echo using double quotes and interpolation
-        echo "<h1>My Name is: $name </h1>";
+        echo '<h1>Mon nom est: '.$name.' </h1>';
+        echo '<h1>Mon age: '.$age.' </h1>';
+
     ?>
     <button type="button" class="btn btn-dark">CLICK ME!</button>
     <button type="button" class="btn btn-primary">CLICK ME!</button>
