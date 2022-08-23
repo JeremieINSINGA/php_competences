@@ -7,7 +7,7 @@
     //Concatenation of strings
         $phrase1 = "Je suis un étudiant";
         $phrase2 = "in class, stand with Rock";
-        $name = "Jérémie Insinga";
+        $name = "Jeremie Insinga";
         echo $phrase1 . ", Elle s'appelle Tiffany, ". $phrase2;
         echo '<br/>';
         echo '<hr/>';
