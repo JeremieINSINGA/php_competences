@@ -5,10 +5,10 @@
     <h1>PHP String Manipulation</h1>
     <?php 
     //Concatenation of strings
-        $phrase1 = "Je suis un étudiant";
-        $phrase2 = "à la recherche d'une entreprise pour une alternance";
-        $name = "Jeremie Insinga";
-        echo $phrase1 . ", Elle s'appelle Tiffany, ". $phrase2;
+        $phrase1 = " à la recherche d'une entreprise ";
+        $phrase2 = "pour une alternance";
+        $name = "Jeremie Insinga,";
+        echo $name . $phrase1 . $phrase2;
         echo '<br/>';
         echo '<hr/>';
         //String tansformation
